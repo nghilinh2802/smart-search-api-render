@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+firebase-credentials.json
+.env
+.venv
